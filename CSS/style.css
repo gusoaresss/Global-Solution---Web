@@ -160,3 +160,35 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #45a049;
 }
+
+h1 {
+  margin: 0;
+}
+
+/* Estilos do conteúdo principal */
+main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+}
+
+.image-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
