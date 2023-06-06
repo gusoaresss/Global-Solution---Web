@@ -208,10 +208,9 @@ section p {
   color: #555;
 }
 
-/* Estilos para as imagens dentro das seções */
 section img {
   display: block;
   max-width: 100%;
   height: auto;
-  margin-top: 20px;
+  margin-top: 20px auto;
 }
